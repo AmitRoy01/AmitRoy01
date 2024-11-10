@@ -1,6 +1,6 @@
-### Hi there 👋, I am Amit
+#### Hi there 👋, I am Amit
 #### Software engineering student
-![Software engineering student](https://scontent.fdac11-1.fna.fbcdn.net/v/t39.30808-6/454918957_2235881700094906_4918763182989079117_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeH4N9ngU9ZCI9O0Oi-b9yaIeC2-DwryfPB4Lb4PCvJ88CXinYJhscYpERXPSCK0igI3rdl-nbkiY-tliHryoye7&_nc_ohc=AB9I8LHrI1sQ7kNvgE64btO&_nc_zt=23&_nc_ht=scontent.fdac11-1.fna&_nc_gid=AwUtbEMxWhSZeAjvJ9pWTt_&oh=00_AYDch4cuja3iqXN367NGDUiArJyEPLb4HgKD0rOlPQk5hg&oe=6736DEF0)
+![Software engineering student](https://img.freepik.com/premium-photo/portrait-kid-boy-learn-code-with-soft-blurred-friend-computer-lab_983424-3134.jpg)
 
 I am a third-year Software Engineering student actively working to expand my knowledge, build new skills, and take on challenging projects. I'm passionate about learning and dedicated to applying my skills in real-world applications.
 
