@@ -1,4 +1,4 @@
-#### Hi there 👋, I am Amit
+###### Hi there 👋, I am Amit
 #### Software engineering student
 ![Software engineering student](https://img.freepik.com/premium-photo/portrait-kid-boy-learn-code-with-soft-blurred-friend-computer-lab_983424-3134.jpg)
 
